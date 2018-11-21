@@ -1,4 +1,4 @@
-# 게임장르
+﻿# 게임장르
 >퍼즐게임
 # 플랫폼
 >PC
@@ -57,3 +57,5 @@
 >https://docs.microsoft.com/en-us/windows/mixed-reality/unity-development-overview
 >https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
 
+
+>2018-11-21  https://youtu.be/FZa28LjYLXM
