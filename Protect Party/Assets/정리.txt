@@ -1,0 +1,12 @@
+Enemy Attack
+
+1.FireBall
+-
+
+-Destroy
+  - 반구로 쪼개지고나서 반대쪽으로 이동하면서 알파값 낮추기
+  - 퍼지면서 알파값 낮추기
+
+2.Arrow
+- 
+-Destroy
