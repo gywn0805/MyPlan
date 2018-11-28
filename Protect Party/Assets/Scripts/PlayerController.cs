@@ -26,6 +26,10 @@ public class PlayerController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
+
+
         moveFB = Input.GetAxis("Vertical") * activeMoveSpeed;
         moveLR = Input.GetAxis("Horizontal") * activeMoveSpeed;
 

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class ShieldController : MonoBehaviour
 {
@@ -18,6 +19,8 @@ public class ShieldController : MonoBehaviour
     //  public MeshRenderer rnd3;
     public GameObject normalguard;
     public GameObject perfectguard;
+    public GameObject guardgaugeUI;
+    public Slider filledguardgaugeUI;
     private float ptimer;
 
 
@@ -28,6 +31,9 @@ public class ShieldController : MonoBehaviour
     // Use this for initialization
     void Start()
     {
+        guardgaugeUI.SetActive(false);
+        normalguard.SetActive(false);
+        perfectguard.SetActive(false);
         shieldgauge = 100;
         ptimer = 3f;
         publmat.color = new Vector4(publmat.color.r, publmat.color.b, publmat.color.g, 1f);
@@ -37,6 +43,7 @@ public class ShieldController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        filledguardgaugeUI.value = shieldgauge;
         Debug.Log(shieldgauge);
         if (Input.GetMouseButton(1))
         {
@@ -44,6 +51,7 @@ public class ShieldController : MonoBehaviour
             transform.position = Vector3.MoveTowards(transform.position, target.position, step);
             if (transform.position == target.position)
             {
+                guardgaugeUI.SetActive(true);
                 publmat.color = new Vector4(publmat.color.r, publmat.color.b, publmat.color.g, 0.7f);
                 publmat2.color = new Vector4(publmat2.color.r, publmat2.color.b, publmat2.color.g, 0.6f);
                 perfectguard.SetActive(true);
@@ -53,7 +61,7 @@ public class ShieldController : MonoBehaviour
                 }
                 else
                 {
-                    perfectguard.SetActive(false);
+
                     normalguard.SetActive(true);
                 }
 
@@ -61,6 +69,7 @@ public class ShieldController : MonoBehaviour
         }
         else
         {
+            guardgaugeUI.SetActive(false);
             normalguard.SetActive(false);
             perfectguard.SetActive(false);
             if(ptimer<3)

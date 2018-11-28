@@ -89,6 +89,10 @@
     <Compile Include="Assets\Scripts\ShieldController.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\ICE_sushishop\Shader\Glass.shader" />
+    <None Include="Assets\ICE_sushishop\Shader\Ice(break).shader" />
+    <None Include="Assets\Nice Material Pack\Shaders\Ice.shader" />
+    <None Include="Assets\Nice Material Pack\Shaders\Snow.shader" />
     <None Include="Assets\정리.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

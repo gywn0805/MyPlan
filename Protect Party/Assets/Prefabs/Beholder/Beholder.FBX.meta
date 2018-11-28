@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: fb79fb41de4cdde43b69d50552474d4c
+timeCreated: 1543315656
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Bottom Eyelid
+    100004: Bottom Eyelid001
+    100006: Bottom Eyelid002
+    100008: Bottom Eyelid003
+    100010: Bottom Eyelid005
+    100012: Bottom Eyelid006
+    100014: Bottom Eyelid007
+    100016: Bottom Eyelid008
+    100018: Bottom Eyelid009
+    100020: Bottom Eyelid010
+    100022: Eye
+    100024: Eye Lid
+    100026: Eye001
+    100028: Eye002
+    100030: Eye003
+    100032: Eye005
+    100034: Eye006
+    100036: Eye007
+    100038: Eye008
+    100040: Eye009
+    100042: Eye010
+    100044: Teeth
+    100046: Tentacle
+    100048: Tentacle001
+    100050: Tentacle002
+    100052: Tentacle003
+    100054: Tentacle004
+    100056: Tentacle005
+    100058: Tentacle006
+    100060: Tentacle007
+    100062: Tentacle008
+    100064: Tentacle009
+    100066: Tongue
+    100068: Top Eyelid
+    100070: Top Eyelid001
+    100072: Top Eyelid002
+    100074: Top Eyelid003
+    100076: Top Eyelid005
+    100078: Top Eyelid006
+    100080: Top Eyelid007
+    100082: Top Eyelid008
+    100084: Top Eyelid009
+    100086: Top Eyelid010
+    400000: //RootNode
+    400002: Bottom Eyelid
+    400004: Bottom Eyelid001
+    400006: Bottom Eyelid002
+    400008: Bottom Eyelid003
+    400010: Bottom Eyelid005
+    400012: Bottom Eyelid006
+    400014: Bottom Eyelid007
+    400016: Bottom Eyelid008
+    400018: Bottom Eyelid009
+    400020: Bottom Eyelid010
+    400022: Eye
+    400024: Eye Lid
+    400026: Eye001
+    400028: Eye002
+    400030: Eye003
+    400032: Eye005
+    400034: Eye006
+    400036: Eye007
+    400038: Eye008
+    400040: Eye009
+    400042: Eye010
+    400044: Teeth
+    400046: Tentacle
+    400048: Tentacle001
+    400050: Tentacle002
+    400052: Tentacle003
+    400054: Tentacle004
+    400056: Tentacle005
+    400058: Tentacle006
+    400060: Tentacle007
+    400062: Tentacle008
+    400064: Tentacle009
+    400066: Tongue
+    400068: Top Eyelid
+    400070: Top Eyelid001
+    400072: Top Eyelid002
+    400074: Top Eyelid003
+    400076: Top Eyelid005
+    400078: Top Eyelid006
+    400080: Top Eyelid007
+    400082: Top Eyelid008
+    400084: Top Eyelid009
+    400086: Top Eyelid010
+    2300000: //RootNode
+    2300002: Bottom Eyelid
+    2300004: Bottom Eyelid001
+    2300006: Bottom Eyelid002
+    2300008: Bottom Eyelid003
+    2300010: Bottom Eyelid005
+    2300012: Bottom Eyelid006
+    2300014: Bottom Eyelid007
+    2300016: Bottom Eyelid008
+    2300018: Bottom Eyelid009
+    2300020: Bottom Eyelid010
+    2300022: Eye
+    2300024: Eye Lid
+    2300026: Eye001
+    2300028: Eye002
+    2300030: Eye003
+    2300032: Eye005
+    2300034: Eye006
+    2300036: Eye007
+    2300038: Eye008
+    2300040: Eye009
+    2300042: Eye010
+    2300044: Teeth
+    2300046: Tentacle
+    2300048: Tentacle001
+    2300050: Tentacle002
+    2300052: Tentacle003
+    2300054: Tentacle004
+    2300056: Tentacle005
+    2300058: Tentacle006
+    2300060: Tentacle007
+    2300062: Tentacle008
+    2300064: Tentacle009
+    2300066: Tongue
+    2300068: Top Eyelid
+    2300070: Top Eyelid001
+    2300072: Top Eyelid002
+    2300074: Top Eyelid003
+    2300076: Top Eyelid005
+    2300078: Top Eyelid006
+    2300080: Top Eyelid007
+    2300082: Top Eyelid008
+    2300084: Top Eyelid009
+    2300086: Top Eyelid010
+    3300000: //RootNode
+    3300002: Bottom Eyelid
+    3300004: Bottom Eyelid001
+    3300006: Bottom Eyelid002
+    3300008: Bottom Eyelid003
+    3300010: Bottom Eyelid005
+    3300012: Bottom Eyelid006
+    3300014: Bottom Eyelid007
+    3300016: Bottom Eyelid008
+    3300018: Bottom Eyelid009
+    3300020: Bottom Eyelid010
+    3300022: Eye
+    3300024: Eye Lid
+    3300026: Eye001
+    3300028: Eye002
+    3300030: Eye003
+    3300032: Eye005
+    3300034: Eye006
+    3300036: Eye007
+    3300038: Eye008
+    3300040: Eye009
+    3300042: Eye010
+    3300044: Teeth
+    3300046: Tentacle
+    3300048: Tentacle001
+    3300050: Tentacle002
+    3300052: Tentacle003
+    3300054: Tentacle004
+    3300056: Tentacle005
+    3300058: Tentacle006
+    3300060: Tentacle007
+    3300062: Tentacle008
+    3300064: Tentacle009
+    3300066: Tongue
+    3300068: Top Eyelid
+    3300070: Top Eyelid001
+    3300072: Top Eyelid002
+    3300074: Top Eyelid003
+    3300076: Top Eyelid005
+    3300078: Top Eyelid006
+    3300080: Top Eyelid007
+    3300082: Top Eyelid008
+    3300084: Top Eyelid009
+    3300086: Top Eyelid010
+    4300000: Beholder
+    4300002: Tentacle004
+    4300004: Eye005
+    4300006: Bottom Eyelid005
+    4300008: Top Eyelid005
+    4300010: Tentacle007
+    4300012: Eye008
+    4300014: Bottom Eyelid008
+    4300016: Top Eyelid008
+    4300018: Tentacle003
+    4300020: Eye003
+    4300022: Bottom Eyelid003
+    4300024: Top Eyelid003
+    4300026: Tentacle
+    4300028: Eye
+    4300030: Top Eyelid
+    4300032: Bottom Eyelid
+    4300034: Tentacle002
+    4300036: Eye002
+    4300038: Bottom Eyelid002
+    4300040: Top Eyelid002
+    4300042: Tentacle001
+    4300044: Eye001
+    4300046: Bottom Eyelid001
+    4300048: Top Eyelid001
+    4300050: Tentacle009
+    4300052: Eye010
+    4300054: Bottom Eyelid010
+    4300056: Top Eyelid010
+    4300058: Tentacle008
+    4300060: Eye009
+    4300062: Bottom Eyelid009
+    4300064: Top Eyelid009
+    4300066: Tentacle005
+    4300068: Eye006
+    4300070: Bottom Eyelid006
+    4300072: Top Eyelid006
+    4300074: Tentacle006
+    4300076: Eye007
+    4300078: Bottom Eyelid007
+    4300080: Top Eyelid007
+    4300082: Teeth
+    4300084: Tongue
+    4300086: Eye Lid
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 1
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Eye Lid
+        weight: 1
+      - path: Teeth
+        weight: 1
+      - path: Tentacle
+        weight: 1
+      - path: Tentacle/Eye
+        weight: 1
+      - path: Tentacle/Eye/Bottom Eyelid
+        weight: 1
+      - path: Tentacle/Eye/Top Eyelid
+        weight: 1
+      - path: Tentacle001
+        weight: 1
+      - path: Tentacle001/Eye001
+        weight: 1
+      - path: Tentacle001/Eye001/Bottom Eyelid001
+        weight: 1
+      - path: Tentacle001/Eye001/Top Eyelid001
+        weight: 1
+      - path: Tentacle002
+        weight: 1
+      - path: Tentacle002/Eye002
+        weight: 1
+      - path: Tentacle002/Eye002/Bottom Eyelid002
+        weight: 1
+      - path: Tentacle002/Eye002/Top Eyelid002
+        weight: 1
+      - path: Tentacle003
+        weight: 1
+      - path: Tentacle003/Eye003
+        weight: 1
+      - path: Tentacle003/Eye003/Bottom Eyelid003
+        weight: 1
+      - path: Tentacle003/Eye003/Top Eyelid003
+        weight: 1
+      - path: Tentacle004
+        weight: 1
+      - path: Tentacle004/Eye005
+        weight: 1
+      - path: Tentacle004/Eye005/Bottom Eyelid005
+        weight: 1
+      - path: Tentacle004/Eye005/Top Eyelid005
+        weight: 1
+      - path: Tentacle005
+        weight: 1
+      - path: Tentacle005/Eye006
+        weight: 1
+      - path: Tentacle005/Eye006/Bottom Eyelid006
+        weight: 1
+      - path: Tentacle005/Eye006/Top Eyelid006
+        weight: 1
+      - path: Tentacle006
+        weight: 1
+      - path: Tentacle006/Eye007
+        weight: 1
+      - path: Tentacle006/Eye007/Bottom Eyelid007
+        weight: 1
+      - path: Tentacle006/Eye007/Top Eyelid007
+        weight: 1
+      - path: Tentacle007
+        weight: 1
+      - path: Tentacle007/Eye008
+        weight: 1
+      - path: Tentacle007/Eye008/Bottom Eyelid008
+        weight: 1
+      - path: Tentacle007/Eye008/Top Eyelid008
+        weight: 1
+      - path: Tentacle008
+        weight: 1
+      - path: Tentacle008/Eye009
+        weight: 1
+      - path: Tentacle008/Eye009/Bottom Eyelid009
+        weight: 1
+      - path: Tentacle008/Eye009/Top Eyelid009
+        weight: 1
+      - path: Tentacle009
+        weight: 1
+      - path: Tentacle009/Eye010
+        weight: 1
+      - path: Tentacle009/Eye010/Bottom Eyelid010
+        weight: 1
+      - path: Tentacle009/Eye010/Top Eyelid010
+        weight: 1
+      - path: Tongue
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
