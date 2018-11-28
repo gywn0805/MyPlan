@@ -54,9 +54,12 @@
 # UI
 >아직 미정
 >https://github.com/Microsoft/MixedRealityToolkit-Unity
+#
 >https://docs.microsoft.com/en-us/windows/mixed-reality/unity-development-overview
+#
 >https://docs.microsoft.com/en-us/windows/mixed-reality/install-the-tools
 
 
 >2018-11-21  https://youtu.be/FZa28LjYLXM
+#
 >2018-11-28  https://youtu.be/NAG8hlEWOJo
